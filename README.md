@@ -18,7 +18,7 @@ I am student who is studing in high school.
 />
 <img 
   style="margin: 10px"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/typescript-original.svg" 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
   alt="javascript" 
   height="40"
 />
